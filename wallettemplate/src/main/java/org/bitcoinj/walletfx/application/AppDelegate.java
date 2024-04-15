@@ -32,5 +32,5 @@ public interface AppDelegate {
     default void init(Application application) throws Exception {
     }
     void start(Stage primaryStage) throws Exception;
-    void stop() throws Exception;
+    void stop() throws Exception;//Aqui pruebo el coso este para comit
 }
