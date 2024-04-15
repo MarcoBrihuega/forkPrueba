@@ -31,6 +31,13 @@ public interface AppDelegate {
      */
     default void init(Application application) throws Exception {
     }
-    void start(Stage primaryStage) throws Exception;
+    void start(Stage primaryStage) throws Exception; // y aahora para otra oaosaodoadd
     void stop() throws Exception;//Aqui pruebo el coso este para comit
+
+    public static void dicirQueAndoEnOtraRama(){
+
+    }
+    public static void holaMundo(){
+
+    }
 }
