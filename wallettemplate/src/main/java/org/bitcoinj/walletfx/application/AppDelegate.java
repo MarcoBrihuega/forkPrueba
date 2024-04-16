@@ -34,6 +34,9 @@ public interface AppDelegate {
     void start(Stage primaryStage) throws Exception; // y aahora para otra oaosaodoadd
     void stop() throws Exception;//Aqui pruebo el coso este para comit
 
+    /**
+     * @deprecated {@link.holaMundo}
+     */
     public static void dicirQueAndoEnOtraRama(){
 
     }
